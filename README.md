@@ -27,7 +27,7 @@ Segue os comandos para rodar aplicação:
 
 # Suba a a imagem do Docker:
 docker build -t backend-node-erp .
-e
+
 
 # Execute o contêiner do Docker:
 docker run -p 3000:3000 backend-node-erp
